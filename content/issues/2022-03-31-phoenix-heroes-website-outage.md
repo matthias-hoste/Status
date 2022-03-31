@@ -8,7 +8,7 @@ informational: false
 pin: true
 resolvedWhen: ""
 affected:
-  - PhoenixHeroesWebsite
+  - HeroesWebsite
 severity: down
 ---
 *Investigating* - We are investigating an issue where the Phoenix Heroes Website will not load.
