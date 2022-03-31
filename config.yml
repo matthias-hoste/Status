@@ -159,26 +159,35 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Main Website
+    - name: MainWebsite
+      displayName: Main Website
       category: Main Servers
       link: https://phoenixnetwork.net
-    - name: Login Server
+    - name: LoginServer
+      displayName: Login Server
       category: Main Servers
-    - name: Authentication Server
+    - name: AuthenticationServer
+      displayName: Authentication Server
       category: Main Servers
-    - name: Website
+    - name: HeroesWebsite
+      displayName: Website
       category: Phoenix Heroes
       link: https://phoenixheroes.net
-    - name: Backend
+    - name: HeroesBackend
+      displayName: Backend
       category: Phoenix Heroes
-    - name: Website
+    - name: play4freeWebsite
+      displayName: Website
       category: Phoenix Play4Free
       link: https://phoenixplay4free.net
-    - name: Backend
+    - name: play4freeBackend
+      displayName: Backend
       category: Phoenix Play4Free
-    - name: Website
+    - name: GalaxyLifeWebsite
+      displayName: Website
       category: Galaxy Life
-    - name: Backend
+    - name: GalaxyLifeBackend
+      displayName: Backend
       category: Galaxy Life
 
   # What date format to use?
