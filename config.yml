@@ -186,6 +186,7 @@ params:
     - name: GalaxyLifeWebsite
       displayName: Website
       category: Galaxy Life
+      link: https://galaxylifegame.net
     - name: GalaxyLifeBackend
       displayName: Backend
       category: Galaxy Life
