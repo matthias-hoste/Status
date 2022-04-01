@@ -188,7 +188,7 @@ params:
       category: Galaxy Life
       link: https://galaxylifegame.net
     - name: GalaxyLifeBackend
-      displayName: Backend
+      displayName: Beta Backend
       category: Galaxy Life
 
   # What date format to use?
