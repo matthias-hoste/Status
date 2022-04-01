@@ -2,13 +2,13 @@
 section: issue
 title: Phoenix Heroes Website Outage
 date: 2022-03-31T07:38:15.856Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: true
-resolvedWhen: ""
+resolvedWhen: 2022-04-01T20:30:27.046Z
 affected:
   - HeroesWebsite
 severity: down
 ---
-*Investigating* - We are investigating an issue where the Phoenix Heroes Website will not load.
+*Resolved* - We have resolved the issue and the site is again functioning as normal.
